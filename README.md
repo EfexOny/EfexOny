@@ -9,7 +9,7 @@
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/0NM5B5vcg1VrzCaNDgcRwi?si=aaa7c6285f3d4b35)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=EfexOny&icon=0&color=0)](https://visitcount.itsvg.in
+[![](https://visitcount.itsvg.in/api?id=EfexOny&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
